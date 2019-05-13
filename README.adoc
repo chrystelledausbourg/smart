@@ -35,3 +35,8 @@ Other content (project, publication, talk)::
 - Follow the existing naming rule (if any) to create a new entry file (e.g., `20180119-CERFACS.md`),
 by copying an existing one to get the attributes to fill
 
+== Chrystelle d'Ausbourg Internship
+
+- Fork of the project
+
+
