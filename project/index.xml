@@ -2,40 +2,40 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Projects on SM@RT Team</title>
-    <link>https://chrystelledausbourg.github.io/project/</link>
+    <link>https://chrystelledausbourg.github.io/smart/project/</link>
     <description>Recent content in Projects on SM@RT Team</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2018. Last update: 2018/07/10</copyright>
     <lastBuildDate>Wed, 01 Nov 2017 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="https://chrystelledausbourg.github.io/project/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://chrystelledausbourg.github.io/smart/project/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Bombardier Transport</title>
-      <link>https://chrystelledausbourg.github.io/project/bombardier/</link>
+      <link>https://chrystelledausbourg.github.io/smart/project/bombardier/</link>
       <pubDate>Wed, 01 Nov 2017 00:00:00 +0000</pubDate>
       
-      <guid>https://chrystelledausbourg.github.io/project/bombardier/</guid>
+      <guid>https://chrystelledausbourg.github.io/smart/project/bombardier/</guid>
       <description></description>
     </item>
     
     <item>
       <title>GEMOC Initiative</title>
-      <link>https://chrystelledausbourg.github.io/project/gemoc/</link>
+      <link>https://chrystelledausbourg.github.io/smart/project/gemoc/</link>
       <pubDate>Thu, 19 Oct 2017 00:00:00 +0000</pubDate>
       
-      <guid>https://chrystelledausbourg.github.io/project/gemoc/</guid>
+      <guid>https://chrystelledausbourg.github.io/smart/project/gemoc/</guid>
       <description></description>
     </item>
     
     <item>
       <title>MOISE</title>
-      <link>https://chrystelledausbourg.github.io/project/moise/</link>
+      <link>https://chrystelledausbourg.github.io/smart/project/moise/</link>
       <pubDate>Thu, 19 Oct 2017 00:00:00 +0000</pubDate>
       
-      <guid>https://chrystelledausbourg.github.io/project/moise/</guid>
+      <guid>https://chrystelledausbourg.github.io/smart/project/moise/</guid>
       <description></description>
     </item>
     

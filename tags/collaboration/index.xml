@@ -2,22 +2,22 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Collaboration on SM@RT Team</title>
-    <link>https://chrystelledausbourg.github.io/tags/collaboration/</link>
+    <link>https://chrystelledausbourg.github.io/smart/tags/collaboration/</link>
     <description>Recent content in Collaboration on SM@RT Team</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2018. Last update: 2018/07/10</copyright>
     <lastBuildDate>Thu, 19 Oct 2017 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="https://chrystelledausbourg.github.io/tags/collaboration/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://chrystelledausbourg.github.io/smart/tags/collaboration/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>MOISE</title>
-      <link>https://chrystelledausbourg.github.io/project/moise/</link>
+      <link>https://chrystelledausbourg.github.io/smart/project/moise/</link>
       <pubDate>Thu, 19 Oct 2017 00:00:00 +0000</pubDate>
       
-      <guid>https://chrystelledausbourg.github.io/project/moise/</guid>
+      <guid>https://chrystelledausbourg.github.io/smart/project/moise/</guid>
       <description></description>
     </item>
     
