@@ -189,7 +189,7 @@ fieldset[disabled] .btn-xl.active {
 .navbar-brand>img {
     height: 50px;
     max-width: 250px;
-    margin: -15px;
+    margin: 15px;
 }
 
 @media(min-width:768px) {
