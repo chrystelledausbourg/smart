@@ -227,7 +227,7 @@ blockquote p:last-child {
 }
 
 .home-section:nth-of-type(even) {
-  background-color: rgb(247,247,247) ;
+  background-color: orange ;
 }
 
 @media screen and (max-width: 768px) {
@@ -246,7 +246,7 @@ blockquote p:last-child {
 .section-heading p {
   font-weight: 400;
   font-size: 1.1rem;
-  color: #b2b2b2 ;
+  color: pink ;
 }
 
 /*************************************************
