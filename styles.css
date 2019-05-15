@@ -227,7 +227,7 @@ blockquote p:last-child {
 }
 
 .home-section:nth-of-type(even) {
-  background-color: rgb(247, 247, 247);
+  background-color: purple ;
 }
 
 @media screen and (max-width: 768px) {
