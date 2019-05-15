@@ -216,7 +216,7 @@ blockquote p:last-child {
 }
 
 .home-section {
-  background-color: orange ;
+  background-color: pink ;
   padding: 110px 0 110px 0;
   animation: intro 0.3s both;
   animation-delay: 0.15s;
