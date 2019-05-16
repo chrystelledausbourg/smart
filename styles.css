@@ -815,15 +815,15 @@ footer a#back_to_top i {
 
 .btn-primary.btn-outline {
   color: #004d7f !important;
-  border-color: #004d7f !important;
+  border-color: green !important;
 }
 
 .btn-primary.btn-outline:focus {
-  color: #004d7f !important;
+  color: green !important;
 }
 
 .btn-primary.btn-outline:active {
-  color: #fff !important;
+  color: #004d7f !important;
 }
 
 .btn-success.btn-outline {
