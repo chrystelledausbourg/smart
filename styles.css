@@ -631,7 +631,7 @@ article {
   overflow: hidden;
   text-overflow: ellipsis;
   background: #EFEFEF ;
-  box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2);
+  box-shadow: 0 8px 16px 0 rgba(0,0,0,0.2);
   transition: all 0.2s ease-out;
 }
 
@@ -655,7 +655,7 @@ article {
 
 .card h4 a:hover {
   color: #000;
-  border-bottom: solid 1px #000;
+  border-bottom: solid 9px #000;
   text-decoration: none;
 }
 
