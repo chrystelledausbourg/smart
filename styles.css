@@ -819,7 +819,7 @@ footer a#back_to_top i {
 }
 
 .btn-primary.btn-outline:focus {
-  color: green !important;
+  color: #004d7f !important;
 }
 
 .btn-primary.btn-outline:active {
