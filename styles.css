@@ -763,8 +763,8 @@ footer a#back_to_top i {
  **************************************************/
 
 .btn-primary {
-  border-color: #004d7f !important;
-  background: #004d7f !important;
+  border-color: green !important;
+  background: green !important;
 }
 
 .btn-primary:hover,
@@ -795,12 +795,12 @@ footer a#back_to_top i {
 
 .btn-toolbar .btn.btn-primary:hover,
 .btn-toolbar .btn.btn-primary:focus {
-  background-color: #002984 !important;
+  background-color: green !important;
 }
 
 .btn-toolbar .btn.btn-primary:active,
 .btn-toolbar .btn.btn-primary.active {
-  background-color: #757de8 !important;
+  background-color: #004d7f !important;
 }
 
 /*************************************************
