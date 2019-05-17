@@ -128,7 +128,7 @@ video {
 
 .img-responsive {
   /* Extend Bootstrap declaration with centering. */
-  margin: -15 ;
+  margin: -5 ;
 }
 
 figcaption:before {
