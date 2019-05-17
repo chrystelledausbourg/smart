@@ -814,7 +814,7 @@ footer a#back_to_top i {
 .btn-toolbar .btn.btn-primary:active,
 .btn-toolbar .btn.btn-primary.active {
   background-color: black !important;
-  border-color : black; 
+  border-color : #004d7f; 
 }
 
 /*************************************************
