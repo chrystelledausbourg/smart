@@ -75,7 +75,7 @@ ul, ol, dl {
 h1, h2, h4, h5, h6 {
   font-family: 'Yanone Kaffeesatz', sans-serif;
   font-weight: 50;
-  margin-bottom: .5rem;
+  margin-bottom: 1.5rem;
   line-height: 1.25;
   color: black ;
   text-rendering: optimizeLegibility;
