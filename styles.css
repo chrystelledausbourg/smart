@@ -777,7 +777,7 @@ footer a#back_to_top i {
 
 .btn-primary {
   border-color: black !important;
-  background: #004d7f !important;
+  background: black !important;
 }
 
 .btn-primary:hover,
@@ -785,7 +785,7 @@ footer a#back_to_top i {
 .btn-primary.active,
 .btn-primary:visited,
 .open > .dropdown-toggle.btn-primary {
-  background: #004d7f !important;
+  background: black !important;
 }
 
 /*************************************************
