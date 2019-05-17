@@ -407,7 +407,6 @@ article {
   padding: 1rem 20px 0 20px;
   margin: 0 auto 0 auto;
   background-color: #EFEFEF;
-  tittle: bold;
 }
 
 .article-header {
@@ -447,6 +446,7 @@ article {
 
 .article-title {
   font-size: 1.75rem;
+  font-weight: bold;
 }
 
 .article-title a {
