@@ -813,7 +813,7 @@ footer a#back_to_top i {
 
 .btn-toolbar .btn.btn-primary:active,
 .btn-toolbar .btn.btn-primary.active {
-  background-color: #004d7f !important;
+  background-color: black !important;
   border-color : black; 
 }
 
@@ -828,7 +828,7 @@ footer a#back_to_top i {
 }
 
 .btn-primary.btn-outline {
-  color: #004d7f !important;
+  color: black !important;
   border-color: green !important;
 }
 
