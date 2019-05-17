@@ -373,11 +373,11 @@ ul.share li .fa {
   font-size: 16px;
   text-align: center;
   transition: all 150ms ease-in-out;
-  color: orange ;
+  color: orange;
 }
 
 ul.share li a {
-  background-color: #EFEFEF ;
+  background-color: #EFEFEF;
   display: block;
   border-radius: 50%;
   text-decoration: none !important;
@@ -457,11 +457,11 @@ article {
 }
 
 .article-metadata a {
-  color: green ;
+  color: green;
 }
 
 .article-metadata a:hover {
-  color: yellow ;
+  color: yellow;
 }
 
 .article-list-item {
@@ -602,7 +602,7 @@ article {
 
 #projects.home-section .project-tags {
   font-size: 0.75rem;
-  color: red ;
+  color: red;
 }
 
 .projects-container {
@@ -807,7 +807,7 @@ footer a#back_to_top i {
 .btn-toolbar .btn.btn-primary:active,
 .btn-toolbar .btn.btn-primary.active {
   background-color: #004d7f !important;
-  border-color : black ; 
+  border-color : black; 
 }
 
 /*************************************************
