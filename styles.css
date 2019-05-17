@@ -785,7 +785,7 @@ footer a#back_to_top i {
 .btn-primary.active,
 .btn-primary:visited,
 .open > .dropdown-toggle.btn-primary {
-  background: black !important;
+  background: #004d7f !important;
 }
 
 /*************************************************
