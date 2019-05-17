@@ -406,6 +406,7 @@ article {
   max-width: 760px;
   padding: 1rem 20px 0 20px;
   margin: 0 auto 0 auto;
+  background-color: #EFEFEF;
 }
 
 .article-header {
