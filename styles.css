@@ -84,8 +84,7 @@ h1 {
   font-size: 2.75rem;
   margin-bottom: .5rem;
 }
-h2 /* topics */ 
-{
+h2 {
   margin-top: -1rem;
   font-size: 1.5rem;
   color: #004d7f; 
@@ -93,7 +92,8 @@ h2 /* topics */
   font-size: 2.75rem;
   
 }
-h3 {
+h3 /* topics */  
+{
   font-weight: 10 ;
   margin-top: 1.5rem;
   font-size: 1.25rem;
