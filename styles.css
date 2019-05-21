@@ -275,6 +275,7 @@ blockquote p:last-child {
   margin: 0 auto;
   border-radius: 120%;
   background-size: cover;
+  object-fit: cover; 
 }
 
 #profile .portrait-title h2 {
