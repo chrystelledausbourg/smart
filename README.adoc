@@ -46,4 +46,5 @@ by copying an existing one to get the attributes to fill
 - pictures size and quality
 - background color
 - Creating eye-catching texts
+- text-align: justify
 
