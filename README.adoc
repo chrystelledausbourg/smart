@@ -38,5 +38,12 @@ by copying an existing one to get the attributes to fill
 == Chrystelle d'Ausbourg Internship
 
 - Fork of the project
-b
+- Size and color of the titles
+- Color accent, color swap (title, logo, keywords)
+- tweeter place
+- cards color and shadow
+- buttons colors
+- pictures size and quality
+- background color
+- Creating eye-catching texts
 
