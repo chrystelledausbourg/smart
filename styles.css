@@ -80,6 +80,7 @@ h1, h2, h4, h5, h6 {
   line-height: 1.25;
   color: black ;
   text-rendering: optimizeLegibility;
+  text-align: right;
 }
 h1 {
   font-size: 2.75rem;
