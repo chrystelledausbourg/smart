@@ -115,6 +115,7 @@ h3.article-title a:hover {
   font-weight: bold ;
   text-decoration: none;
   transition: color 0.6s ease;
+  text-align: center;
 }
 
 a:hover,
