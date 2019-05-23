@@ -258,6 +258,7 @@ blockquote p:last-child {
   font-weight: 400;
   font-size: 1.1rem;
   color: grey ;
+  text-align: center;
 }
 
 /*************************************************
