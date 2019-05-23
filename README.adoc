@@ -45,6 +45,6 @@ by copying an existing one to get the attributes to fill
 - buttons colors
 - pictures size and quality
 - background color
-- Creating eye-catching texts
+- Creating eye-catching texts (in publications)
 - text-align: justify
 
