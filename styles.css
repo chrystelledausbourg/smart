@@ -16,6 +16,7 @@
 *::after,
 *::before {
   box-sizing: border-box;
+  text-align: center;
 }
 
 .row:after,
