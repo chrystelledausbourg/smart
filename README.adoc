@@ -41,10 +41,8 @@ by copying an existing one to get the attributes to fill
 - Size and color of the titles
 - Color accent, color swap (title, logo, keywords)
 - tweeter place
-- cards color and shadow
-- buttons colors
-- pictures size and quality
-- background color
+- cards color and shadow : better relief
+- background color : grey contrasts
 - Creating eye-catching texts (in publications)
 - text-align: justify
 
