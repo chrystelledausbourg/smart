@@ -128,7 +128,7 @@ video {
   height: auto;
   max-width: 100%;
   display: block;
-  color : blue;
+  color : red;
 }
 
 .img-responsive {
