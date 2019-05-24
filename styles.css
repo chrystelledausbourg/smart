@@ -15,7 +15,7 @@
 *,
 *::after,
 *::before {
-  box-sizing: border-box; /* tweeter */
+  box-sizing: border-box; /* photo */
 }
 
 .row:after,
