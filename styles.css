@@ -17,7 +17,7 @@
 *::before {
   box-sizing: border-box; /* tweeter */
   margin-left: 50px;
-  margin-right: auto;
+  margin-right: 50px;
 }
 
 .row:after,
