@@ -282,8 +282,8 @@ blockquote p:last-child {
   object-fit: cover; 
 }
 
-#profile .portrait-title h2 {
-  font-size: 1.75em;
+#profile .portrait-title h2 /* Reliability of Systems & Software */
+{  font-size: 1.75em;
   font-weight: 300;
   color: #000000;
   margin: 20px 0 10px 0;
